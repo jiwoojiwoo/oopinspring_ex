@@ -16,7 +16,23 @@
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration>
+        <fileset id="fileset" name="Expert002" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/expert002/expert002.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Expert003" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/expert003.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="Expert004" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/expert004.xml</file>
+        </fileset>
+        <fileset id="fileset4" name="Expert005" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/expert005.xml</file>
+        </fileset>
+        <fileset id="fileset5" name="Expert006" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/expert006.xml</file>
+        </fileset>
+      </configuration>
     </facet>
   </component>
 </module>
