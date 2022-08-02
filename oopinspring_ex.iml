@@ -32,6 +32,18 @@
         <fileset id="fileset5" name="Expert006" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/expert006.xml</file>
         </fileset>
+        <fileset id="fileset6" name="Aop002" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/aop002.xml</file>
+        </fileset>
+        <fileset id="fileset7" name="Aop003" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/aop003.xml</file>
+        </fileset>
+        <fileset id="fileset8" name="Aop004" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/aop004.xml</file>
+        </fileset>
+        <fileset id="fileset9" name="Aop006" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/aop006.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
